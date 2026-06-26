@@ -1,0 +1,24 @@
+.skill-container {
+    border: solid #2563EB;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1rem;
+    margin-bottom: 10px;
+}
+.center-header {
+    color: #2563EB;
+    text-align: center;
+    font-family: 'Kanit', sans-serif;
+    font-weight: 700;
+}
+
+.skill-container > h3 {
+  color: #2563EB;
+  font-family: 'Kanit', sans-serif;
+  font-weight: 700;
+}
+p a:hover {
+    color: #2563EB;
+}
+ 
